@@ -7,7 +7,7 @@ st.set_page_config(page_title="Women Safety App", page_icon="🚨")
 st.title("🚨 Women Safety App")
 
 # ---------- CONFIG ----------
-SENDER_EMAIL = "monikajoshi00232gmail.com"     # replace
+SENDER_EMAIL = "monikajoshi0023gmail.com"     # replace
 APP_PASSWORD = "jxrb itsi hxud sqkg"       # replace (Google App Password)
 
 # ---------- EMAIL ----------
